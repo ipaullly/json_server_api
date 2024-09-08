@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "67af",
+      "first-name": "Paul",
+      "last-name": "Morogo",
+      "email": "ipaullly22@gmail.com",
+      "phone": "0724767902",
+      "password": "polmog92",
+      "confirmPassword": "polmog92",
+      "uploadedFiles": []
+    }
+  ]
+}
